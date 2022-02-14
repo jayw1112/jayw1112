@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayw1112
-- 👀 I’m interested in ... front end development.
-- 🌱 I’m currently learning ... javascript and react.
+- 👀 I’m interested in ... front end development and full stack development job opportunities.
+- 🌱 I’m currently learning  react.
 - 💞️ I’m looking to collaborate on ... anything.
 - 📫 How to reach me ... message me.
 
